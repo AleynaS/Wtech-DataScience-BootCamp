@@ -1,0 +1,16 @@
+#BootCampEnglishVerison Assignment1:Python Basics URL:https://bootrain.com/course/draft/1/2/1/#
+# Write a code that outputs your name and surname in one line.
+#Write a 1-line code that outputs your name and surname in two separate lines by using a single print() call.
+#Use print() function that returns the following text. Notice the quotes in the text. Those quotes should be seen in the output!:
+# `I don't want to be an "artist". I want to be a "Data Scientist."` 
+    
+#PART1
+
+name ='Aleyna'
+surname ='Sarışın'
+
+print ("My name and my surname is" , name , surname+'.')
+
+#PART2
+
+print( ' `I don""t want to be an "artist". I want to be a "Data Scientist."`')
