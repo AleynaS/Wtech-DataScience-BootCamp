@@ -22,6 +22,7 @@ Embarked: Port names (C, Q, S) C = Cherbourg, Q = Queenstown, S = Southampton
 Survived = TARGET VALUE
 
 -Variable Notes-
+
 pclass: A proxy for socio-economic status (SES)
 1st = Upper
 2nd = Middle
