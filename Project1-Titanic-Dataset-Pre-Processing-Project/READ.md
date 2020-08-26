@@ -1,4 +1,4 @@
-This project aim is examine the data with Python
+This project aim is examine the data with Python.
 
 The data has been split into two groups:
 ->training set (train.csv) 
